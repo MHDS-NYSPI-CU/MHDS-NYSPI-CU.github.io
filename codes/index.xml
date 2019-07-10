@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Codes/Tutorials on Timer | Responsive Multipurpose Bootstrap Hugo Template</title>
+    <link>/codes/</link>
+    <description>Recent content in Codes/Tutorials on Timer | Responsive Multipurpose Bootstrap Hugo Template</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 12 Jul 2018 18:19:33 +0600</lastBuildDate>
+    
+	<atom:link href="/codes/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>sas macro for table</title>
+      <link>/codes/sas_macro_for_tables/</link>
+      <pubDate>Sun, 15 Jul 2018 12:29:40 +0600</pubDate>
+      
+      <guid>/codes/sas_macro_for_tables/</guid>
+      <description>Bla bla bla</description>
+    </item>
+    
+  </channel>
+</rss>
